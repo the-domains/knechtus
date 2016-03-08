@@ -1,9 +1,7 @@
-favicon: null
 name: knechtus
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.93507
+typography_spectrum: 0.18097
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1875
-  brandStrength: 0.5224903007037938
-  rhythmicContrast: 0.4336157268844545
   brandColors:
     - '#6499F4'
     - '#0B0A0D'
     - '#C6FFFD'
     - '#A3994B'
     - '#C50F26'
+  brandStrength: 0.5224903007037938
   lightness: 0.375
-typography_spectrum: 0.18097
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.7293907
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.1875
+  rhythmicContrast: 0.4336157268844545
+purpose: []
