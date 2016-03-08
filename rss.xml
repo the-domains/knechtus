@@ -4,7 +4,7 @@
         <description><![CDATA[knechtus]]></description>
         <link>https://thegrid.ai/knechtus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 00:22:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knechtus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/knechtus/894a574e-0e44-40d5-9b27-a7905a3ec1bb/index.html</link>
             <guid isPermaLink="false">894a574e-0e44-40d5-9b27-a7905a3ec1bb</guid>
             <pubDate>Mon, 07 Mar 2016 17:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bridging the gap between business and design through visual conversations.</p>]]></description>
+            <link>https://thegrid.ai/knechtus/36422fa1-e42b-47fa-a185-e43da5ce3281/index.html</link>
+            <guid isPermaLink="false">36422fa1-e42b-47fa-a185-e43da5ce3281</guid>
+            <pubDate>Tue, 08 Mar 2016 00:21:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
